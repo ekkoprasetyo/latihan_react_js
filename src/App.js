@@ -8,9 +8,9 @@ class App extends Component {
         <HelloWorld nama="dilan"/>
         <HelloWorld nama="asu"/>
         <HelloWorld nama="ahay"/>
+        <HelloWorld nama="coba"/>
       </div>
     );
   }
 }
-
 export default App;
