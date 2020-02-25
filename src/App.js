@@ -5,10 +5,10 @@ class App extends Component {
   render() {
     return (
       <div>
-        <HelloWorld nama="dilan"/>
-        <HelloWorld nama="asu"/>
-        <HelloWorld nama="ahay"/>
-        <HelloWorld nama="coba"/>
+        <HelloWorld namaDepan="dilan" namaBelakang="asoy"/>
+        <HelloWorld namaDepan="asu" namaBelakang="asoy"/>
+        <HelloWorld namaDepan="ahay" namaBelakang="asoy"/>
+        <HelloWorld namaDepan="coba" namaBelakang="asoy"/>
       </div>
     );
   }
